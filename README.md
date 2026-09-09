@@ -12,7 +12,7 @@ active et d'impliquer les étudiant.e.s dans leur apprentissage.
 
 ## Comment utiliser ce projet
 
-Le projet est accessible de façon standard en cliquant sur [ce lien](https://thibauddevx.github.io/cours_python_projet/) pour avoir le projet à jour.
+Le projet est accessible de façon standard en cliquant sur [ce lien](https://thi6aud.github.io/cours_python_projet/index.html) pour avoir le projet à jour.
 
 Sinon clonez le projet depuis votre IDE, sur VS Code par exemple: 
 1. Copiez ```https://github.com/ThibaudDevX/cours_python_projet.git```.
